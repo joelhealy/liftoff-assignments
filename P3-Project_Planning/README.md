@@ -2,8 +2,8 @@
 
 ### Wireframes
 
-* [Import File](images/import_file_wireframe.png)  
-![Import File](images/import_file_wireframe.png)
+* [Import File](images/import_file_wireframe2.png)  
+![Import File](images/import_file_wireframe2.png)
 * [Edit Sample Info](images/edit_sample_info.png)  
 ![Edit Sample Info](images/edit_sample_info.png)
 * [Calculate/Export Results](images/calculate_export_results.png)  
