@@ -1,15 +1,16 @@
 # Project Planning
-For this assignment, you'll create some initial plans for your project.
-
-## Assignment Description
-[Project Planning Assignment](https://education.launchcode.org/liftoff/assignments/planning/)
-
-## Submission Instructions
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* [Import File](images/import_file_wireframe.png)  
+![Import File](images/import_file_wireframe.png)
+* [Edit Sample Info](images/edit_sample_info.png)  
+![Edit Sample Info](images/edit_sample_info.png)
+* [Calculate/Export Results](images/calculate_export_results.png)  
+![Calculate/Export Results](images/calculate_export_results.png)
+* [Edit Configuration Data](images/edit_configuration_data.png)  
+![Edit Configuration Data](images/edit_configuration_data.png)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+Pivotal Tracker - [Liftoff](https://www.pivotaltracker.com/projects/2158870)
